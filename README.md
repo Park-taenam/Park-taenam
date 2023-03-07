@@ -9,7 +9,6 @@
 
 ### Interests
 - Data Mining
-- Machine Learning Algorithm
 - Deep Learning Algorithm
 
 <div align=center>
