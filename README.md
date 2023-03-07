@@ -4,16 +4,15 @@
 
 </div>
 
-### Data Analyst
-
-### Interest
+### Interests
 - Data Mining
 - Machine Learning Algorithm
 - Deep Learning Algorithm
 
 <div align=center>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Tistory}&theme={dark}&link=https://wannabenice.tistory.com/)](https://wannabenice.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-white?style=flat-square&logo=Tistory&logoColor=black&link=https://wannabenice.tistory.com/)](https://wannabenice.tistory.com/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Notion&logoColor=white&link=https://taenampark.notion.site/084ebc871ea747bd820e1131a1c13129)](https://taenampark.notion.site/084ebc871ea747bd820e1131a1c13129)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beneeds929@gmail.com)](mailto:beneeds929@gmail.com)
 
 </div>
