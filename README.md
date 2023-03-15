@@ -4,12 +4,10 @@
 
 </div>
 
-### Data Analyst
-- Graduate student at Korea Univ.
-
 ### Interests
-- Data Mining
 - Deep Learning Algorithms
+- Semi-supervised Learning
+- Self-supervised Learning
 
 <div align=center>
 
