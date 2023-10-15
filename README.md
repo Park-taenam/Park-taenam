@@ -1,14 +1,16 @@
 ## Taenam Park
 ### Interests
+<div align=center>
+    <h3>📚 Interests 📚</h3>
+</div>
+<div align=center>
 - Deep Learning Algorithms
 - Deep Generative Models
 - Diffusion Models
-
-[![Tistory Badge](https://img.shields.io/badge/-Tistory-lightgrey?style=flat-square&logo=Tistory&logoColor=black&link=https://wannabenice.tistory.com/)](https://wannabenice.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beneeds929@gmail.com)](mailto:beneeds929@gmail.com)
+</div>
 
 <div align=center>
-    <h3>📚 Tech Stack 📚</h3>
+    <h3>💻 Tech Stack 💻</h3>
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
