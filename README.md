@@ -1,14 +1,4 @@
 ## Taenam Park
-### Interests
-<div align=center>
-    <h3>📚 Interests 📚</h3>
-</div>
-<div align=center>
-- Deep Learning Algorithms
-- Deep Generative Models
-- Diffusion Models
-</div>
-
 <div align=center>
     <h3>💻 Tech Stack 💻</h3>
 </div>
