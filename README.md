@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/MySQL-003B57?style=flat&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white" />
 </div>
 <br>
 <div align=center>
