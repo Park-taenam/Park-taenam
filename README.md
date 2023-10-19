@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
     <br>
-    <img src="https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikit-learn-#F7931E?&style=flat&logo=scikit-learn&logoColor=white" />
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?&style=flat&logo=Pytorch&logoColor=white" />
 </div>
 <br>
