@@ -12,7 +12,3 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?&style=flat&logo=Pytorch&logoColor=white" />
 </div>
-<br>
-<div align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIM-DKA&layout=compact"><br><br>
-</div>
